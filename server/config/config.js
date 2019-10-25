@@ -3,7 +3,7 @@ module.exports = config = {
         port: 3306,
         host: "localhost",
         user: "root",
-        password: "Admin~123456",
+        password: "root",
         database: "burgers_db",
         dialect: 'mysql'
     }    
